@@ -8,11 +8,11 @@ return [
 	'fishbowl_test' => 'true',
 	
 	// Fishbowl Connection Settings
-	'FB_SERVER' => 'galileo.fishbowlhostedservices.com',
-	'FB_LOGIN' => 'gamba',
-	'FB_PASS' => '251ndox459z',
-	'APP_KEY' => '789a456b123c',
+	'FB_SERVER' => '',
+	'FB_LOGIN' => '',
+	'FB_PASS' => '',
+	'APP_KEY' => '',
 	'APP_NAME' => 'GAMBA',
 	'APP_DESCRIPTION' => 'Fishbowl connection for GAMBA.',
-	'FB_PORT' => '28192'
+	'FB_PORT' => ''
 ];
